@@ -1,1 +1,2 @@
 v0_0 -> two screens - first with password entry and second with greeting
+v0_1 -> clock, Node# and Current entries, Start/Stop button, timer entry fields
